@@ -18,9 +18,7 @@
 - 🚀 **Modern Tech:** Built with React, TypeScript, and MongoDB.
 
 ---
-
 ## 🛠️ Local Installation & Setup
-
 ### 1. Backend Configuration
 Create a `.env` file in the `backend` folder and add your credentials:
 
